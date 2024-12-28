@@ -1,9 +1,18 @@
+
 <h1 align="center">Hi 👋, I'm ZalgoDev</h1>
 <h3 align="center">Developper from belgium</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalgo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zalgo-dev" /> </p>
 
 - 🔭 I’m currently working on **Essentials**
+
+## My Plugins
+
+| Name           | ✨ Link                                              | 🔑 Status |
+|----------------|-----------------------------------------------------|--|
+| Essentials     | [Download Essentials V0.0.1](https://github.com/Zalgo-Dev/Essentials) | [![](https://poggit.pmmp.io/shield.state/Essentials)](https://poggit.pmmp.io/p/Essentials) |
+| ReloadPlugins  | [Download ReloadPlugins V1](https://github.com/Zalgo-Dev/ReloadPlugins) | Rejected |
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
