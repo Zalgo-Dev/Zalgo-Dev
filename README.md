@@ -10,7 +10,7 @@
 
 | Name           | ✨ Link                                              | 🔑 Status |
 |----------------|-----------------------------------------------------|--|
-| Essentials     | [Download Essentials V0.0.1](https://github.com/Zalgo-Dev/Essentials) | [![](https://poggit.pmmp.io/shield.state/Essentials)](https://poggit.pmmp.io/p/Essentials) |
+| Essentials     | [Download Essentials](https://github.com/Zalgo-Dev/Essentials) | [![](https://poggit.pmmp.io/shield.state/Essentials)](https://poggit.pmmp.io/p/Essentials) |
 | ReloadPlugins  | [Download ReloadPlugins V1](https://github.com/Zalgo-Dev/ReloadPlugins) | Rejected |
 
 
