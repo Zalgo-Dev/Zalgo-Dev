@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalgo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zalgo-dev" /> </p>
 
-- 🔭 I’m currently working on **Essentials**
+- 🔭 I’m currently working on **MCP Tools V1**
 
 ## My Plugins
 
