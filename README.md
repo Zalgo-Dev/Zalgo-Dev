@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalgo-dev&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **MCP Tools V1**
+- 🔭 I’m currently working on **ParadiseRce**
 
 ## My Plugins
 
