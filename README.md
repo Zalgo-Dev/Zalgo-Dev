@@ -3,13 +3,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalgo-dev&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **ParadiseRce**
+- 🔭 I’m currently working on **ParadiseRce** and **MCPFuckTool**
 
 ## My Plugins
 
 | Name           | ✨ Link                                              | 🔑 Status |
 |----------------|-----------------------------------------------------|--|
-| Essentials     | [Download Essentials](https://github.com/Zalgo-Dev/Essentials) | [![](https://poggit.pmmp.io/shield.state/Essentials)](https://poggit.pmmp.io/p/Essentials) |
+| Essentials     | [Download Essentials](https://github.com/Zalgo-Dev/Essentials) | Rejected |
 | ReloadPlugins  | [Download ReloadPlugins V1](https://github.com/Zalgo-Dev/ReloadPlugins) | Rejected |
 
 
