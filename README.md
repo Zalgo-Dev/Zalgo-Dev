@@ -9,9 +9,10 @@
 
 | Name           | ✨ Link                                              | 🔑 Status |
 |------------------|-----------------------------------------------------|--|
-| Paradise Website | 
-| Essentials     | [Essentials](https://github.com/Zalgo-Dev/Essentials) | Not Finish |
-| ReloadPlugins  | [ReloadPlugins V1](https://github.com/Zalgo-Dev/ReloadPlugins) | Finish |
+| Portefolio | soon | not finish |
+| Paradise Website | soon | not finish |
+| Essentials     | https://github.com/Zalgo-Dev/Essentials | not finish |
+| ReloadPlugins  | https://github.com/Zalgo-Dev/ReloadPlugins | Finish |
 
 
 <h3 align="left">Connect with me:</h3>
