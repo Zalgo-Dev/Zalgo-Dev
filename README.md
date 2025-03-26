@@ -7,12 +7,17 @@
 
 ## My Projects
 
-| Name           | ✨ Link                                              | 🔑 Status |
+| Name           | ✨ Link                                              | 🔑 Version / Status |
 |------------------|-----------------------------------------------------|--|
-| Portefolio | soon | not finish |
-| Paradise Website | soon | not finish |
-| Essentials     | https://github.com/Zalgo-Dev/Essentials | not finish |
-| ReloadPlugins  | https://github.com/Zalgo-Dev/ReloadPlugins | Finish |
+| Echo Rce | soon.. | ❌ |
+| Rce Client | https://github.com/Zalgo-Dev/Rce-Client | V1 / ❌ |
+| FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1 / Done ✅ |
+| TheReaper | https://github.com/Zalgo-Dev/TheReaper | V1 / ❌ |
+| Portefolio | soon.. | ❌ |
+| Paradise Website | soon.. | V1 / Done ✅ |
+| MC Cleaner | https://github.com/Zalgo-Dev/MCleaner | V1 / Done ✅ |
+| Essentials     | https://github.com/Zalgo-Dev/Essentials | V1 / ❌ |
+| ReloadPlugins  | https://github.com/Zalgo-Dev/ReloadPlugins | V1 / Done ✅ |
 
 
 <h3 align="left">Connect with me:</h3>
