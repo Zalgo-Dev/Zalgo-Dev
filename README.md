@@ -3,12 +3,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalgo-dev&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **ParadiseRce** and **MCPFuckTool**
+- 🔭 I’m currently working on multiple project below
 
-## My Plugins
+## My Projects
 
 | Name           | ✨ Link                                              | 🔑 Status |
-|----------------|-----------------------------------------------------|--|
+|------------------|-----------------------------------------------------|--|
+| Paradise Website |
 | Essentials     | [Download Essentials](https://github.com/Zalgo-Dev/Essentials) | Rejected |
 | ReloadPlugins  | [Download ReloadPlugins V1](https://github.com/Zalgo-Dev/ReloadPlugins) | Rejected |
 
