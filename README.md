@@ -9,15 +9,15 @@
 
 | Name           | ✨ Link                                              | 🔑 Version / Status |
 |------------------|-----------------------------------------------------|--|
-| Echo Rce | soon.. | ❌ |
+| Echo Rce | soon.. | V1 / ❌ |
 | Rce Client | https://github.com/Zalgo-Dev/Rce-Client | V1 / ❌ |
-| FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1 / Done ✅ |
+| FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1 / ✅ |
 | TheReaper | https://github.com/Zalgo-Dev/TheReaper | V1 / ❌ |
-| Portefolio | soon.. | ❌ |
-| Paradise Website | soon.. | V1 / Done ✅ |
-| MC Cleaner | https://github.com/Zalgo-Dev/MCleaner | V1 / Done ✅ |
+| Portefolio | soon.. | V1 / ❌ |
+| Paradise Website | soon.. | V1 / ✅ |
+| MC Cleaner | https://github.com/Zalgo-Dev/MCleaner | V1 / ✅ |
 | Essentials     | https://github.com/Zalgo-Dev/Essentials | V1 / ❌ |
-| ReloadPlugins  | https://github.com/Zalgo-Dev/ReloadPlugins | V1 / Done ✅ |
+| ReloadPlugins  | https://github.com/Zalgo-Dev/ReloadPlugins | V1 / ✅ |
 
 
 <h3 align="left">Connect with me:</h3>
