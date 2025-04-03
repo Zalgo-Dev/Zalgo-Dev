@@ -11,7 +11,7 @@
 |------------------|-----------------------------------------------------|--|
 | Flask Multi Template | https://github.com/Zalgo-Dev/Flask-Multi-Template | V1 / ✅ |
 | WeaRisk | https://github.com/Zalgo-Dev/WeaRisk | alpha / ✅ |
-| SynapseX (Echo Rce) | soon.. | V1 / ❌ |
+| SynapseX (Vaczdoor) | soon.. | V1 / ❌ |
 | Rce Client | https://github.com/Zalgo-Dev/Rce-Client | V1 / ❌ |
 | FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1 / ✅ |
 | TheReaper | https://github.com/Zalgo-Dev/TheReaper | V1 / ❌ |
