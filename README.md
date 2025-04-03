@@ -10,7 +10,7 @@
 | Name           | ✨ Link                                              | 🔑 Version / Status |
 |------------------|-----------------------------------------------------|--|
 | WeaRisk | https://github.com/Zalgo-Dev/WeaRisk | alpha / ✅ |
-| Echo Rce | soon.. | V1 / ❌ |
+| SynapseX (Echo Rce) | soon.. | V1 / ❌ |
 | Rce Client | https://github.com/Zalgo-Dev/Rce-Client | V1 / ❌ |
 | FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1 / ✅ |
 | TheReaper | https://github.com/Zalgo-Dev/TheReaper | V1 / ❌ |
