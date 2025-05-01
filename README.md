@@ -7,18 +7,18 @@
 
 ## My Projects
 
-| Name           | ✨ Link                                              | 🔑 Version / Status |
-|------------------|-----------------------------------------------------|--|
-| Flask Multi Template | https://github.com/Zalgo-Dev/Flask-Multi-Template | V1 / ✅ |
-| WeaRisk | https://github.com/Zalgo-Dev/WeaRisk | alpha / ✅ |
-| SynapseX (Vaczdoor) | soon.. | V1 / ❌ |
-| FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1.2 / ✅ |
-| TheReaper | https://github.com/Zalgo-Dev/TheReaper | V1 / ❌ |
-| Portefolio | soon.. | V1 / ❌ |
-| Paradise Website | https://paradise-client.net | V1 / ✅ |
-| MC Cleaner | https://github.com/Zalgo-Dev/MCleaner | V1 / ✅ |
-| Essentials     | https://github.com/Zalgo-Dev/Essentials | V1 / ✅ |
-| ReloadPlugins  | https://github.com/Zalgo-Dev/ReloadPlugins | V1 / ✅ |
+| Name           | ✨ Link                                              | 🔑 Version | Status |
+|------------------|-----------------------------------------------------|--|--|
+| Flask Multi Template | https://github.com/Zalgo-Dev/Flask-Multi-Template | V1 | ✅ |
+| WeaRisk | https://github.com/Zalgo-Dev/WeaRisk | alpha | ✅ |
+| SynapseX (Vaczdoor) | soon.. | V1 | ❌ |
+| FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1.2 | ✅ |
+| TheReaper | https://github.com/Zalgo-Dev/TheReaper | V1 | ❌ |
+| Portefolio | soon.. | V1 | ❌ |
+| Paradise Website | https://paradise-client.net | V1 | ✅ |
+| MC Cleaner | https://github.com/Zalgo-Dev/MCleaner | V1 | ✅ |
+| Essentials     | https://github.com/Zalgo-Dev/Essentials | V1 | ✅ |
+| ReloadPlugins  | https://github.com/Zalgo-Dev/ReloadPlugins | V1 | ✅ |
 
 
 <h3 align="left">Connect with me:</h3>
