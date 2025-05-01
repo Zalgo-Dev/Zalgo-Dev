@@ -15,7 +15,7 @@
 | FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1.2 / ✅ |
 | TheReaper | https://github.com/Zalgo-Dev/TheReaper | V1 / ❌ |
 | Portefolio | soon.. | V1 / ❌ |
-| Paradise Website | https://paradise-client.eu | V1 / ✅ |
+| Paradise Website | https://paradise-client.net | V1 / ✅ |
 | MC Cleaner | https://github.com/Zalgo-Dev/MCleaner | V1 / ✅ |
 | Essentials     | https://github.com/Zalgo-Dev/Essentials | V1 / ✅ |
 | ReloadPlugins  | https://github.com/Zalgo-Dev/ReloadPlugins | V1 / ✅ |
