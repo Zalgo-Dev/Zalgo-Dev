@@ -12,7 +12,7 @@
 | Flask Multi Template | https://github.com/Zalgo-Dev/Flask-Multi-Template | V1 / ✅ |
 | WeaRisk | https://github.com/Zalgo-Dev/WeaRisk | alpha / ✅ |
 | SynapseX (Vaczdoor) | soon.. | V1 / ❌ |
-| FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1 / ✅ |
+| FuckTool | https://github.com/Zalgo-Dev/FuckTool | V1.2 / ✅ |
 | TheReaper | https://github.com/Zalgo-Dev/TheReaper | V1 / ❌ |
 | Portefolio | soon.. | V1 / ❌ |
 | Paradise Website | soon.. | V1 / ✅ |
