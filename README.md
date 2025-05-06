@@ -9,6 +9,7 @@
 
 | Name           | ✨ Link                                              | 🔑 Version | Status |
 |------------------|-----------------------------------------------------|--|--|
+| RFakeProxy leak | https://github.com/Zalgo-Dev/Deobfuscated-RFakeProxy | X | ✅ |
 | Flask Multi Template | https://github.com/Zalgo-Dev/Flask-Multi-Template | V1 | ✅ |
 | WeaRisk | https://github.com/Zalgo-Dev/WeaRisk | alpha | ✅ |
 | SynapseX (Vaczdoor) | soon.. | V1 | ❌ |
