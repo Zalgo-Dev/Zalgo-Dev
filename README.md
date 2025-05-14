@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZalgoDev</h1>
 <h3 align="center">Developper from belgium</h3>
+<h4 style="color:red;">Cherche un dev fr pour bosser avec moi sur de multiple projet</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalgo-dev&label=Profile%20views&color=0e75b6&style=flat)
 
