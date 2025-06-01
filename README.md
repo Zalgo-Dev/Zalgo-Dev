@@ -15,7 +15,6 @@
 | WeaRisk | https://github.com/Zalgo-Dev/WeaRisk | alpha | ✅ |
 | SynapseX (Vaczdoor) | soon.. | V1 | ❌ |
 | FuckTool | https://github.com/Zalgo-Dev/FuckTool | V0.1 | ✅ |
-| TheReaper | https://github.com/Zalgo-Dev/TheReaper | V1 | ❌ |
 | Portefolio | soon.. | V1 | ❌ |
 | Paradise Website | https://paradise-client.net | V1 | ✅ |
 | MC Cleaner | https://github.com/Zalgo-Dev/MCleaner | V1 | ✅ |
