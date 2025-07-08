@@ -15,6 +15,7 @@
 | Flask Multi Template | https://github.com/Zalgo-Dev/Flask-Multi-Template | V1 | ✅ |
 | WeaRisk | https://github.com/Zalgo-Dev/WeaRisk | alpha | ✅ |
 | SynapseX (Vaczdoor) | soon.. | V1 | ❌ |
+| SynapseX CLI | https://github.com/Zalgo-Dev/Synapsex-cli | V1 | ✅ |
 | FuckTool | https://github.com/Zalgo-Dev/FuckTool | V0.1 | ✅ |
 | Portefolio | soon.. | V1 | ❌ |
 | Paradise Website | https://paradise-client.net | V1 | ✅ |
