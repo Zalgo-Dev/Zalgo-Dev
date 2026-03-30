@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://zalgo-dev.eu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="zalgo-dev.eu" height="30" width="40" /></a>
+<a href="https://zalgo-dev.eu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/safari.svg" alt="zalgo-dev.eu" height="30" width="40" /></a>
 <a href="https://twitter.com/zalgodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zalgodev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zalgodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zalgodev" height="30" width="40" /></a>
 <a href="https://discord.gg/v8HVcfRMn6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="v8HVcfRMn6" height="30" width="40" /></a>
