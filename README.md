@@ -3,28 +3,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalgo-dev&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on multiple project below
-
-## My Projects
-
-| Name           | ✨ Link                                              | 🔑 Version | Status |
-|------------------|-----------------------------------------------------|--|--|
-| FiveM Sentry StormX | https://github.com/Zalgo-Dev/FiveM-Sentry-Mass-Event-Injection-Vulnerability | X | ✅ |
-| RFakeProxy leak | https://github.com/Zalgo-Dev/Deobfuscated-RFakeProxy | X | ✅ |
-| Flask Multi Template | https://github.com/Zalgo-Dev/Flask-Multi-Template | V1 | ✅ |
-| WeaRisk | https://github.com/Zalgo-Dev/WeaRisk | alpha | ✅ |
-| SynapseX (Vaczdoor) | soon.. | V1 | ❌ |
-| SynapseX CLI | https://github.com/Zalgo-Dev/Synapsex-cli | V1 | ✅ |
-| FuckTool | https://github.com/Zalgo-Dev/FuckTool | V0.1 | ✅ |
-| Portefolio | soon.. | V1 | ❌ |
-| Paradise Website | https://paradise-client.net | V1 | ✅ |
-| MC Cleaner | https://github.com/Zalgo-Dev/MCleaner | V1 | ✅ |
-| Essentials     | https://github.com/Zalgo-Dev/Essentials | V1 | ✅ |
-| ReloadPlugins  | https://github.com/Zalgo-Dev/ReloadPlugins | V1 | ✅ |
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://zalgo-dev.eu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="zalgo-dev.eu" height="30" width="40" /></a>
 <a href="https://twitter.com/zalgodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zalgodev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zalgodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zalgodev" height="30" width="40" /></a>
 <a href="https://discord.gg/v8HVcfRMn6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="v8HVcfRMn6" height="30" width="40" /></a>
