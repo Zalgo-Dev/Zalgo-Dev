@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZalgoDev</h1>
-<h3 align="center">404: Bio not found. Just exploits.</h3>
+<h3 align="center">404: Bio not found.</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalgo-dev&label=Profile%20views&color=0e75b6&style=flat)
 
